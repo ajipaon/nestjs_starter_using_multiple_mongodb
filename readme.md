@@ -1,1 +1,0 @@
-# example nestjs starter using multiple mongodb, typeorm, with jwt auth passport.
